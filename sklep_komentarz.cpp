@@ -87,3 +87,6 @@ int main(void)
 
 // *bufor to miejsce w pamięci, do którego trafia ciąg znaków przesłany przez użytkownika,
 //  a który nie został jeszcze pobrany przez program.
+
+// Literatura:
+// Prata, S., 2016. Język C Szkoła Programowania. Gliwice: HELION
