@@ -38,7 +38,7 @@ int main(void)
 		} 
 		else if (produkt == 4)
 		{
-			printf("\nZakupiono Kiwi!.\n");
+			printf("\nZakupiono kiwi!.\n");
 		}
 		else
 		{
