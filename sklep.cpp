@@ -58,3 +58,6 @@ int main(void)
 	printf("********************** Do widzenia! ***********************\n");
 	return 0;
 }
+
+// Literatura:
+// Prata, S., 2016. Język C Szkoła Programowania. Gliwice: HELION
